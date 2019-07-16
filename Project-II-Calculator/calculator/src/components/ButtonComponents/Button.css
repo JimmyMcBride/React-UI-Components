@@ -1,0 +1,48 @@
+.clear {
+  width: 282px;
+  height: 94px;;
+  font-size: 60px;
+  background: azure;
+  color: midnightblue;
+  border: 0;
+}
+.clear:hover {
+  background: midnightblue;
+  color: azure;
+}
+.action {
+  width: 94px;
+  height: 94px;
+  font-size: 60px;
+  background: darkred;
+  color: lightcoral;
+  border: 1px solid lightcoral;
+}
+.action:hover {
+  background: lightcoral;
+  color: darkred;
+}
+.number {
+  width: 94px;
+  height: 94px;
+  font-size: 60px;
+  background: steelblue;
+  color: midnightblue;
+  border: 1px solid azure;
+}
+.number:hover {
+  background: midnightblue;
+  color: steelblue;
+}
+.zero {
+  width: 282px;
+  height: 94px;
+  font-size: 60px;
+  background: steelblue;
+  color: midnightblue;
+  border: 1px solid azure;
+}
+.zero:hover {
+  background: midnightblue;
+  color: steelblue;
+}

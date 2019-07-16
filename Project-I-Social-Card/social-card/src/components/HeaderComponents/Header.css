@@ -1,1 +1,22 @@
 /* All styles for your header Components live here */
+
+.header-container {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid red 1px;
+}
+
+.image-thumbnail img {
+    width: 50px;
+    border: solid green 1px;
+}
+
+.header-title {
+    border: solid lightslategray 1px;
+    padding: 0;
+}
+
+.header-content {
+    border: solid lightgoldenrodyellow 1px;
+    margin-left: 50px;
+}
